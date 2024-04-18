@@ -1,4 +1,5 @@
 # Contributors
+- [Devata](https://github.com/atahanca)
 - [wpa](https://github.com/waiphyo111000)
 - [Bishal Khadka](https://github.com/bkhadka2)
 - [Cannon Hutcheson]
